@@ -17,4 +17,8 @@ public class second {
       public void  m(){
 
       }
+
+      public void l(){
+
+      }
 }
