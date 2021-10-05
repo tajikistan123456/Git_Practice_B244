@@ -2,11 +2,9 @@ package setup;
 
 public class Car {
 
-    // this car is brand new
+    // this our car from james branch
 
-    // full option car
+    // more text
 
-    // for james
-
-    // and james make a conflict
+    // more text
 }
