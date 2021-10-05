@@ -9,6 +9,12 @@ public class second {
 
         public void m(int a){
 
+    }
+        public void  m(String s ){
+
 
     }
+      public void  m(){
+
+      }
 }
